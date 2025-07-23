@@ -28,7 +28,7 @@ Create a React component with nested expandable rows. The top-level grid shows L
 ---
 
 ✅ React Code Example
-
+```
 // CustomExpandableGrid.jsx
 import React, { useState } from 'react';
 import './CustomExpandableGrid.css';
@@ -107,12 +107,12 @@ const CustomExpandableGrid = () => {
 };
 
 export default CustomExpandableGrid;
-
+```
 
 ---
 
 ✅ CSS for Styling
-
+```
 /* CustomExpandableGrid.css */
 .container {
   display: flex;
@@ -164,7 +164,7 @@ export default CustomExpandableGrid;
 .selected {
   background-color: #c8e6c9;
 }
-
+```
 
 ---
 
